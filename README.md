@@ -23,3 +23,7 @@ TODO:
 ## Learning
 - setting up socket io server and client
 - broadcasting message
+
+## preview
+![alt text](image.png)
+![alt text](image-1.png)
