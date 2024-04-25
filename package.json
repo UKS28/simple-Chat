@@ -1,0 +1,20 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "description": "- A single web page , Where mutliple user can send message and receive message\r - Distinction between message send by me and receive from other.\r - user will provide his name only after that the communication will happen.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon server",
+    "serve": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
